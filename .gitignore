@@ -1,0 +1,11 @@
+# Reddit API user and keys
+keys.py
+# 12 GB file of WSB related comments on reddit
+data/wsb_comments_raw.csv
+# all zip files
+data/*.zip
+data/ID*
+# macOS files
+.DS_store
+# credentials
+cred/*
