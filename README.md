@@ -26,7 +26,7 @@ I would like to continue my CRISP-DM process by returning to the dataset and mak
 - **data/** — contains vehicles dataset used throughout project.   
 - **EDA/** — contains initial project development/data exploration file, initial EDA notebook file, and initial modeling notebook file. 
 - **images/**  — contains a PDF presentation of my findings, images files used for notebook and readme header, and output visualizations which were used in the presentation slides.
-- **FINAL_KC_Predictive_Model_Mike_Flanagan.ipynb** — primary project notebook  
+- **MPG_NeuralNet_Final_Notebook.ipynb** — primary project notebook  
 - **README.md**  
   
   
